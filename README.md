@@ -1,2 +1,1 @@
-# devbot
-Devbot is your intelligent assistant that automates the mundane tasks of development, so you can focus on the creative work. 
+Devbot is a powerful tool that automates repetitive tasks, streamlines your workflow, and helps you stay focused on what really matters: building great software. A next-generation productivity booster for developers. With advanced automation capabilities, intelligent suggestions, and seamless integration with your favorite tools, Devbot takes your development process to the next level.
